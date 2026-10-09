@@ -1,0 +1,55 @@
+CHARACTER AND EPISODE CONTINUITY SHEET
+Original template by GenToon / Fairrium. Version: 2026-10-09.
+Keep one accepted copy per episode. Update facts after review, not guesses.
+
+1. SERIES AND CHARACTER RECORD
+Series title: [ ]
+Continuity owner / revision date: [ ]
+Character name / aliases / dialogue label: [ ]
+Identity anchors that remain stable: [ ]
+Appearance details whose changes need explanation: [ ]
+Usual voice / sample ORIGINAL line: [ ]
+Relationship to other cast members: [ ]
+Initial goal / knowledge / unresolved concern: [ ]
+Reference notes or owned reference-file names (optional): [ ]
+Repeat this section for each character.
+
+2. EPISODE CONTINUITY RECORD
+Episode title / number / accepted version: [ ]
+Previous episode and specific inherited fact: [ ]
+Elapsed story time and how the reader learns it: [ ]
+Location / lighting / weather at opening: [ ]
+Cast present at opening: [ ]
+Outfits and explained changes: [ ]
+Props: owner / location / condition at opening: [ ]
+
+Event log (duplicate rows):
+Panel | Observed event | Who learns it | Prop or relationship change
+[ ]   | [ ]            | [ ]           | [ ]
+
+ENDING STATE TO CARRY FORWARD
+Character / goal / knowledge / emotion / location: [ ]
+Prop / holder or location / condition: [ ]
+Relationship / what changed / supporting panel: [ ]
+Unresolved thread: [ ]
+Next episode may change: [ ]
+Next episode must explain before changing: [ ]
+
+3. CONTINUITY DECISIONS
+Established fact and its episode/panel source: [ ]
+Intentional change / explanation / first panel showing it: [ ]
+Possible contradiction / decision / reviewer: [ ]
+Status: [open / accepted / superseded]
+If superseded, replacement version and reason: [ ]
+
+REVIEW
+[ ] Stable identity details agree across the accepted panels.
+[ ] A different outfit, missing prop, or time jump has a story explanation.
+[ ] Knowledge changes have an event source; nobody knows a secret too early.
+[ ] Ending facts, plans, and unresolved questions are labeled separately.
+[ ] Only accepted facts are carried into the next episode.
+
+License: Copyright 2026 Fairrium (GenToon). Original template licensed under
+CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+Credit the creator, link the license, and indicate changes when sharing.
+No endorsement is implied. See LICENSE.md for full notice and exclusions.

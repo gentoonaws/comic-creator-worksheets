@@ -1,0 +1,87 @@
+SCENE-TO-PANELS WORKSHEET
+Original template by GenToon / Fairrium. Version: 2026-10-09.
+Copy this file and replace bracketed fields. Duplicate fields as needed.
+
+1. SOURCE AND PURPOSE
+Project title: [ ]
+Writer or group: [fictional name or local working label]
+Revision date / version: [ ]
+Audience and intended reading format: [ ]
+Rights / permission for source text: [ ]
+Source scene (paste or write your short scene here):
+[ ]
+Scene begins with: [situation, location, time]
+Scene ends with: [what visibly changes]
+One thing the reader should understand: [ ]
+What can be omitted without losing that change: [ ]
+Internal thought to show through action or a caption: [ ]
+
+2. CAST AND SETTING
+Repeat for each character:
+Name / speaker label: [ ]
+Identity anchors: [hair, silhouette, distinguishing feature]
+Outfit for this scene: [ ]
+Goal and emotion at the start: [ ]
+What they know at the start: [ ]
+Held object / hand / object condition: [ ]
+
+Location landmarks and relative positions: [ ]
+Time / lighting / weather: [ ]
+Props and their starting locations: [ ]
+Reading direction: [left-to-right, right-to-left, or vertical]
+
+3. FOUR-PANEL PLANNING GRID
+Use the numbered grid as a quick index. Keep detailed notes below so that
+long lines do not become unreadable in a narrow text editor.
+
+Panel | Purpose             | Visible change              | Speaker
+1     | [orient the reader] | [ ]                         | [ ]
+2     | [develop the action]| [ ]                         | [ ]
+3     | [turn or decision]  | [ ]                         | [ ]
+4     | [show the result]   | [ ]                         | [ ]
+
+For EACH panel, fill:
+Panel number: [ ]
+Visible moment (one drawable instant): [ ]
+Characters / positions / gaze: [ ]
+Framing and focal point: [ ]
+Dialogue in reading order, with speaker names: [ ]
+Caption or sound effect (label separately): [ ]
+Object state before -> after: [ ]
+Link from the previous panel (what the reader must infer): [ ]
+Needed transition panel or revision: [ ]
+
+4. DIALOGUE AND CONTINUITY REVIEW
+[ ] Each line has an identified speaker; silent panels say 'no dialogue'.
+[ ] Bubble order follows the intended reading direction.
+[ ] Lines fit the chosen layout when viewed at the intended reading size.
+[ ] Dialogue does not repeat an action already clear from the drawing.
+[ ] Faces, identity anchors, and outfits match, unless a change is explained.
+[ ] Prop moves have a visible action or an understandable transition.
+[ ] Left/right references name the character's side or the viewer's side.
+[ ] Characters react only to information they have learned.
+[ ] The final panel shows the intended change from the opening.
+
+Revision log:
+Panel / issue / proposed fix / reviewer / accepted version: [ ]
+Open question to resolve before illustration: [ ]
+
+5. EXPORT AND READABILITY CHECKLIST (AFTER MAKING THE COMIC)
+Target destination and its current requirements: [ ]
+Chosen image size / file type / reading order: [ ]
+[ ] Open the exported file, not just the editor preview.
+[ ] Check every panel and bubble in order at the intended display size.
+[ ] Text is legible; contrast and balloon tails make speakers identifiable.
+[ ] No text, faces, or important props are cut off at edges or crop boundaries.
+[ ] Names and spelling agree with the continuity sheet.
+[ ] Provide a text transcript in reading order when sharing the comic.
+[ ] Add meaningful image descriptions where the destination supports them;
+    describe actions and speakers rather than relying only on color.
+[ ] Verify rights and any credits needed for added fonts, art, or source text.
+[ ] Keep an editable master and name the export with title and revision.
+[ ] If printing, inspect a test print; if posting, inspect the uploaded result.
+
+License: Copyright 2026 Fairrium (GenToon). Original template licensed under
+CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+Credit the creator, link the license, and indicate changes when sharing.
+No endorsement is implied. See LICENSE.md for full notice and exclusions.
