@@ -15,6 +15,8 @@ Created by **GenToon**, operated by **Fairrium, Seoul, South Korea**. Prepared O
 
 [The Lantern Label: filled planning example](original-planning-example.md) shows the fields in use, including a deliberate revision. It is original fictional **text planning**, not generated-image proof, a finished comic, or a test of any editor's output. No images are included.
 
+[Before you draw: a practical continuity guide](panel-continuity-guide.md) explains how to review hands, props, dialogue order, and the accepted ending before making images.
+
 ## For a writing group or classroom
 
 Work offline with fictional names. One person plans the beats; another follows the panel order without hearing the source scene first. Ask them what changed and which action was unclear. Revise the plan before illustrating. Teachers can assess whether a reader can follow the actions and identify the speakers; no student software account is needed to use this kit. Keep students' personal information out of shared copies.
@@ -32,4 +34,4 @@ If you choose to try GenToon, [Story to Comic](https://www.gentoon.ai/en/story-t
 
 ## License and credit
 
-Copyright 2026 Fairrium (GenToon). The original prose and blank templates in these five files are licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). See [LICENSE.md](LICENSE.md) for scope, conditions, exclusions, and a suggested credit. You may share and adapt the licensed material, including commercially, with attribution and a note of changes. No promotional backlink or signup is required; attribution is required by the license. Your own added scene is not automatically licensed by using a worksheet.
+Copyright 2026 Fairrium (GenToon). The original prose and blank templates in these six files are licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). See [LICENSE.md](LICENSE.md) for scope, conditions, exclusions, and a suggested credit. You may share and adapt the licensed material, including commercially, with attribution and a note of changes. No promotional backlink or signup is required; attribution is required by the license. Your own added scene is not automatically licensed by using a worksheet.
