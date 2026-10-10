@@ -1,0 +1,52 @@
+ONE-EPISODE SCENE CONTINUITY REVIEW
+Adapted from the Scene-to-Panels and Continuity Kit by Fairrium (GenToon).
+Source: https://github.com/gentoonaws/comic-creator-worksheets
+License: CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+Changes: added transition evidence, confidence and export acceptance fields.
+Linked samples/media and user additions are excluded; no endorsement implied.
+
+Scene / version / reviewer / date: [ ]
+Source text you own or have permission to adapt: [ ]
+Rights evidence location (do not infer permission from public availability): [ ]
+Opening fact: [ ]
+Ending change and visible cause: [ ]
+Reading direction / intended display size: [ ]
+
+STABLE CAST ANCHORS
+Name | recognition details | clothing changes needing explanation
+[ ]  | [ ]                 | [ ]
+
+TRANSITION REVIEW — duplicate one row per boundary
+From panel → to panel: [ ]
+Character location / knowledge before → after: [ ]
+Prop name / holder / condition before → after: [ ]
+Visible event supporting the change: [ ]
+Skipped event and why a reader can infer it: [ ]
+Observed / inferred / unknown (choose): [ ]
+Issue / proposed revision / acceptance check: [ ]
+Decision: open / accepted / superseded [ ]
+
+ONE-EPISODE ENDING
+Established event and exact panel source: [ ]
+Unresolved question / unknown prop location: [ ]
+Proposal for a next scene (NOT an established event): [ ]
+Second completed episode evidence: [null until inspected with rights evidence]
+Cross-episode consistency conclusion: [null until two episodes are reviewed]
+
+EXPORT ACCEPTANCE — only complete after an export exists
+File / version / dimensions / format: [ ]
+[ ] Open actual exported file at intended reading size.
+[ ] Inspect every panel and each boundary, not only the first and last.
+[ ] Check balloon order, essential object text, clipped bodies/props and hands.
+[ ] Distinguish recognizable identity from unresolved object/story continuity.
+[ ] Write remaining gaps explicitly; do not mark the whole scene error-free.
+
+FILLED TEXT-PLAN CHECK: THE LANTERN LABEL
+1→2: Eli's right hand keeps RIVER PATH; his left points at map.
+2→3: Nora has seen map; her right peels NORTH PATH; Eli's left steadies lantern.
+3→4: Handover/attachment skipped; review inference or add attachment panel.
+Ending: corrected lantern stays on table, old label discarded, boots muddy.
+Crop check: final boots visible; Nora speaks before Eli for the joke.
+Unknown: why route changed; delivery has not happened.
+Next-scene proposal: carry lantern to river path, not an accepted event.
+Generated lantern images: none. Export: none. Second episode: null.
