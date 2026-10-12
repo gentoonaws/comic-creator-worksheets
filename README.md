@@ -4,6 +4,10 @@ An editable English planning resource for writers and teachers adapting a short 
 
 Created by **GenToon**, operated by **Fairrium, Seoul, South Korea**. Prepared October 9, 2026. GenToon makes comic-creation software; these resources reflect that maker perspective.
 
+## Make a small moment worth sharing
+
+Try the [Tiny-story laugh lab](four-panel-laugh-lab.md): one small want, one visible reaction, and a gentle surprise in the fourth panel. Read an original text-plan example, let another person read yours, and make a new ending together. Works on paper or in any comic editor.
+
 ## Start with one scene
 
 1. Open [Scene-to-panels worksheet](scene-to-panels-worksheet.txt) in a text editor. Save a copy with your own title and revision date.
@@ -36,4 +40,4 @@ If you choose to try GenToon, [Story to Comic](https://www.gentoon.ai/en/story-t
 
 ## License and credit
 
-Copyright 2026 Fairrium (GenToon). The original prose and blank templates in these seven files are licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). See [LICENSE.md](LICENSE.md) for scope, conditions, exclusions, and a suggested credit. You may share and adapt the licensed material, including commercially, with attribution and a note of changes. No promotional backlink or signup is required; attribution is required by the license. Your own added scene is not automatically licensed by using a worksheet.
+Copyright 2026 Fairrium (GenToon). The original prose and blank templates in these eight files are licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). See [LICENSE.md](LICENSE.md) for scope, conditions, exclusions, and a suggested credit. You may share and adapt the licensed material, including commercially, with attribution and a note of changes. No promotional backlink or signup is required; attribution is required by the license. Your own added scene is not automatically licensed by using a worksheet.

@@ -2,7 +2,7 @@
 
 Copyright © 2026 Fairrium (GenToon), Seoul, South Korea.
 
-The original prose and templates in README.md, scene-to-panels-worksheet.txt, character-continuity-sheet.txt, original-planning-example.md, panel-continuity-guide.md, scene-continuity-review.txt, and this licensing notice are licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+The original prose and templates in README.md, scene-to-panels-worksheet.txt, character-continuity-sheet.txt, original-planning-example.md, panel-continuity-guide.md, scene-continuity-review.txt, four-panel-laugh-lab.md, and this licensing notice are licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
 
 - [License summary](https://creativecommons.org/licenses/by/4.0/)
 - [Complete legal terms](https://creativecommons.org/licenses/by/4.0/legalcode.en)
