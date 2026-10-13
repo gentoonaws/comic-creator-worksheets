@@ -1,0 +1,56 @@
+KONTINUITÄTSBOGEN FÜR FIGUREN UND EPISODEN
+Originalvorlage von GenToon / Fairrium vom 9. Oktober 2026.
+Deutsche Adaption vom 13. Oktober 2026.
+Bewahre für jede Episode eine freigegebene Fassung auf. Aktualisiere Fakten erst nach der Prüfung, nicht aufgrund von Vermutungen.
+
+1. SERIE UND FIGUREN
+Titel der Serie: [ ]
+Verantwortliche Person für die Kontinuität / Datum der Überarbeitung: [ ]
+Name der Figur / weitere Namen / Name bei Dialogen: [ ]
+Gleichbleibende Identitätsmerkmale: [ ]
+Äußere Merkmale, deren Änderung erklärt werden muss: [ ]
+Übliche Sprechweise / BEISPIEL für eine selbst verfasste Dialogzeile: [ ]
+Beziehungen zu anderen Figuren: [ ]
+Anfängliches Ziel / Wissensstand / offenes Anliegen: [ ]
+Referenznotizen oder Namen eigener Referenzdateien (optional): [ ]
+Diesen Abschnitt für jede Figur wiederholen.
+
+2. KONTINUITÄT DER EPISODE
+Episodentitel / Nummer / freigegebene Fassung: [ ]
+Vorige Episode und daraus übernommener konkreter Fakt: [ ]
+Verstrichene Zeit in der Handlung und wie die Lesenden davon erfahren: [ ]
+Ort / Licht / Wetter zu Beginn: [ ]
+Zu Beginn anwesende Figuren: [ ]
+Kleidung und erklärte Änderungen: [ ]
+Gegenstände: Eigentümer / Ort / Zustand zu Beginn: [ ]
+
+Ereignisprotokoll (Zeilen nach Bedarf kopieren):
+Panel | Beobachtetes Ereignis | Wer erfährt davon? | Änderung bei einem Gegenstand oder einer Beziehung
+[ ]   | [ ]                    | [ ]                 | [ ]
+
+ENDZUSTAND FÜR DIE NÄCHSTE EPISODE
+Figur / Ziel / Wissen / Gefühl / Aufenthaltsort: [ ]
+Gegenstand / wer ihn hat oder wo er liegt / Zustand: [ ]
+Beziehung / was sich geändert hat / belegendes Panel: [ ]
+Offener Handlungsfaden: [ ]
+Was sich in der nächsten Episode ändern darf: [ ]
+Was vor einer Änderung in der nächsten Episode erklärt werden muss: [ ]
+
+3. ENTSCHEIDUNGEN ZUR KONTINUITÄT
+Feststehender Fakt und belegende Episode/belegendes Panel: [ ]
+Beabsichtigte Änderung / Erklärung / erstes Panel, das sie zeigt: [ ]
+Möglicher Widerspruch / Entscheidung / prüfende Person: [ ]
+Status: [offen / freigegeben / ersetzt]
+Falls ersetzt: neue Fassung und Grund: [ ]
+
+PRÜFUNG
+[ ] Gleichbleibende Identitätsmerkmale stimmen in allen freigegebenen Panels überein.
+[ ] Andere Kleidung, ein fehlender Gegenstand oder ein Zeitsprung werden in der Handlung erklärt.
+[ ] Änderungen des Wissensstands gehen auf ein Ereignis zurück; niemand kennt ein Geheimnis zu früh.
+[ ] Fakten am Ende, Pläne und offene Fragen sind getrennt gekennzeichnet.
+[ ] Nur freigegebene Fakten werden in die nächste Episode übernommen.
+
+Lizenz: © 2026 Fairrium (GenToon). Adaption der Originalvorlage unter CC BY 4.0:
+https://creativecommons.org/licenses/by/4.0/
+Bei Weitergabe Fairrium (GenToon) nennen, Urheberrechts- und Lizenzhinweise beibehalten, die Lizenz verlinken und Änderungen angeben. Eine Billigung deiner Arbeit ist damit nicht verbunden. Der Bogen lässt sich auf Papier oder in einem beliebigen Editor ohne Konto, Werbelink oder Kauf nutzen.
+Die Lizenz umfasst die ursprünglichen Texte und leeren Vorlagen dieses Materialpakets, nicht Bilder, Software, verlinkte Artikel, Marken, Websites Dritter oder Ergänzungen von Nutzenden. Deine eigenen Geschichten stehen durch das Ausfüllen nicht automatisch unter CC BY. Es gibt keine Gewährleistung. Geltungsbereich, Ausnahmen und vollständige Hinweise stehen in LICENSE.md. GenToon ist Software von Fairrium; für ihre Nutzung gelten gesondert die Konto-, Guthaben- und Nutzungsbedingungen des Dienstes.

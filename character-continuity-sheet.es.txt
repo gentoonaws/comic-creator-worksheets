@@ -1,0 +1,56 @@
+FICHA DE CONTINUIDAD DE PERSONAJES Y EPISODIOS
+Plantilla original de GenToon / Fairrium, del 9 de octubre de 2026.
+Adaptación al español de España del 13 de octubre de 2026.
+Guarda una versión aprobada por episodio. Actualiza los hechos después de revisarlos, nunca basándote en suposiciones.
+
+1. REGISTRO DE LA SERIE Y LOS PERSONAJES
+Título de la serie: [ ]
+Responsable de continuidad / fecha de revisión: [ ]
+Nombre del personaje / otros nombres / nombre en los diálogos: [ ]
+Rasgos de identidad que permanecen constantes: [ ]
+Detalles de aspecto cuyos cambios requieren explicación: [ ]
+Forma habitual de hablar / frase de ejemplo ORIGINAL: [ ]
+Relación con los demás personajes: [ ]
+Objetivo inicial / qué sabe / preocupación pendiente: [ ]
+Notas de referencia o nombres de archivos de referencia propios (opcional): [ ]
+Repite este apartado para cada personaje.
+
+2. REGISTRO DE CONTINUIDAD DEL EPISODIO
+Título / número del episodio / versión aprobada: [ ]
+Episodio anterior y hecho concreto heredado: [ ]
+Tiempo transcurrido en la historia y cómo lo descubre quien lee: [ ]
+Lugar / iluminación / tiempo atmosférico al comienzo: [ ]
+Personajes presentes al comienzo: [ ]
+Vestuario y cambios explicados: [ ]
+Objetos: propietario / ubicación / estado al comienzo: [ ]
+
+Registro de acontecimientos (duplica las filas):
+Viñeta | Acontecimiento observado | Quién se entera | Cambio en un objeto o una relación
+[ ]     | [ ]                     | [ ]             | [ ]
+
+ESTADO FINAL QUE PASA AL SIGUIENTE EPISODIO
+Personaje / objetivo / conocimientos / emoción / ubicación: [ ]
+Objeto / quién lo tiene o dónde está / estado: [ ]
+Relación / qué ha cambiado / viñeta que lo demuestra: [ ]
+Trama sin resolver: [ ]
+Qué puede cambiar en el siguiente episodio: [ ]
+Qué debe explicarse antes de cambiar en el siguiente episodio: [ ]
+
+3. DECISIONES DE CONTINUIDAD
+Hecho establecido y episodio/viñeta que lo documenta: [ ]
+Cambio intencionado / explicación / primera viñeta que lo muestra: [ ]
+Posible contradicción / decisión / persona que revisa: [ ]
+Estado: [pendiente / aprobado / sustituido]
+Si se ha sustituido, nueva versión y motivo: [ ]
+
+REVISIÓN
+[ ] Los rasgos de identidad constantes coinciden en todas las viñetas aprobadas.
+[ ] Un cambio de ropa, la ausencia de un objeto o un salto temporal tienen una explicación en la historia.
+[ ] Los cambios en lo que sabe cada personaje proceden de un acontecimiento; nadie conoce un secreto antes de tiempo.
+[ ] Los hechos finales, los planes y las preguntas sin resolver están marcados por separado.
+[ ] Solo los hechos aprobados pasan al siguiente episodio.
+
+Licencia: © 2026 Fairrium (GenToon). Adaptación de la plantilla original bajo CC BY 4.0:
+https://creativecommons.org/licenses/by/4.0/
+Al compartir la ficha, atribúyela a Fairrium (GenToon), conserva los avisos de derechos de autor y licencia, enlaza la licencia e indica los cambios. Esto no implica que avalen tu trabajo. Se puede usar en papel o con cualquier editor sin cuenta, enlace promocional ni compra.
+La licencia cubre los textos originales y las plantillas en blanco de este paquete, pero no las imágenes, el software, los artículos enlazados, las marcas, los sitios de terceros ni lo añadido por los usuarios. Tus propios relatos no pasan automáticamente a estar bajo CC BY por rellenar la ficha. No se ofrecen garantías. Consulta LICENSE.md para conocer el alcance, las exclusiones y los términos completos. GenToon es software de Fairrium; el uso del servicio se rige por separado por sus condiciones de cuenta, créditos y servicio.

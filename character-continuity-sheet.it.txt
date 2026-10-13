@@ -1,0 +1,56 @@
+SCHEDA DI CONTINUITÀ DEI PERSONAGGI E DEGLI EPISODI
+Modello originale di GenToon / Fairrium del 9 ottobre 2026.
+Adattamento italiano del 13 ottobre 2026.
+Conserva una versione approvata per ogni episodio. Aggiorna i fatti dopo la revisione, non in base a ipotesi.
+
+1. SCHEDA DELLA SERIE E DEI PERSONAGGI
+Titolo della serie: [ ]
+Responsabile della continuità / data della revisione: [ ]
+Nome del personaggio / altri nomi / nome usato nei dialoghi: [ ]
+Tratti dell'identità che restano invariati: [ ]
+Dettagli dell'aspetto i cui cambiamenti richiedono una spiegazione: [ ]
+Modo abituale di parlare / battuta di esempio ORIGINALE: [ ]
+Rapporto con gli altri personaggi: [ ]
+Obiettivo iniziale / ciò che sa / preoccupazione irrisolta: [ ]
+Note di riferimento o nomi di file di riferimento di tua proprietà (facoltativo): [ ]
+Ripeti questa sezione per ogni personaggio.
+
+2. SCHEDA DI CONTINUITÀ DELL'EPISODIO
+Titolo / numero dell'episodio / versione approvata: [ ]
+Episodio precedente e fatto specifico da cui si riparte: [ ]
+Tempo trascorso nella storia e come lo scopre chi legge: [ ]
+Luogo / illuminazione / condizioni meteo all'inizio: [ ]
+Personaggi presenti all'inizio: [ ]
+Abiti e cambiamenti spiegati: [ ]
+Oggetti: proprietario / posizione / condizioni all'inizio: [ ]
+
+Registro degli eventi (duplica le righe):
+Vignetta | Evento osservato | Chi ne viene a conoscenza | Cambiamento relativo a un oggetto o a un rapporto
+[ ]      | [ ]              | [ ]                        | [ ]
+
+STATO FINALE DA RIPRENDERE NELL'EPISODIO SUCCESSIVO
+Personaggio / obiettivo / conoscenze / emozione / posizione: [ ]
+Oggetto / chi lo tiene o dove si trova / condizioni: [ ]
+Rapporto / cosa è cambiato / vignetta a sostegno: [ ]
+Questione narrativa irrisolta: [ ]
+Cosa può cambiare nell'episodio successivo: [ ]
+Cosa va spiegato prima di cambiare nell'episodio successivo: [ ]
+
+3. DECISIONI SULLA CONTINUITÀ
+Fatto accertato e episodio/vignetta che lo documenta: [ ]
+Cambiamento intenzionale / spiegazione / prima vignetta che lo mostra: [ ]
+Possibile contraddizione / decisione / persona incaricata della revisione: [ ]
+Stato: [aperto / approvato / sostituito]
+Se sostituito, nuova versione e motivo: [ ]
+
+VERIFICA
+[ ] I tratti stabili dell'identità coincidono in tutte le vignette approvate.
+[ ] Un abito diverso, un oggetto mancante o un salto temporale trovano spiegazione nella storia.
+[ ] Ogni cambiamento delle conoscenze deriva da un evento; nessuno conosce un segreto troppo presto.
+[ ] I fatti finali, i progetti e le questioni irrisolte sono indicati separatamente.
+[ ] Solo i fatti approvati passano all'episodio successivo.
+
+Licenza: © 2026 Fairrium (GenToon). Adattamento del modello originale sotto CC BY 4.0:
+https://creativecommons.org/licenses/by/4.0/
+Se condividi la scheda, attribuiscila a Fairrium (GenToon), conserva le note sul diritto d'autore e sulla licenza, inserisci il link alla licenza e indica le modifiche. Ciò non implica che approvino il tuo lavoro. La scheda si può usare su carta o con qualsiasi editor senza account, link promozionale o acquisto.
+La licenza riguarda i testi originali e i modelli vuoti di questa raccolta, non immagini, software, articoli collegati, marchi, siti di terzi o aggiunte degli utenti. I tuoi racconti non diventano automaticamente CC BY perché compili la scheda. Non si forniscono garanzie. Per ambito, esclusioni e condizioni complete, consulta LICENSE.md. GenToon è un software di Fairrium; l'uso del servizio è disciplinato separatamente dalle condizioni relative ad account, crediti e servizio.

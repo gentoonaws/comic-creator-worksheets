@@ -1,6 +1,6 @@
 # Scene-to-Panels and Continuity Kit
 
-An editable English planning resource for writers and teachers adapting a short scene into a comic. Use it with any comic editor, a drawing app, or paper. You can use the worksheets without an account, a backlink, or GenToon.
+An editable planning resource for writers and teachers adapting a short scene into a comic. Use it with any comic editor, a drawing app, or paper. You can use the worksheets without an account, a backlink, or GenToon.
 
 Created by **GenToon**, operated by **Fairrium, Seoul, South Korea**. Prepared October 9, 2026. GenToon makes comic-creation software; these resources reflect that maker perspective.
 
@@ -23,6 +23,8 @@ French, German, Spanish and Italian adaptations: [Français](four-panel-laugh-la
 
 [Before you draw: a practical continuity guide](panel-continuity-guide.md) explains how to review hands, props, dialogue order, and the accepted ending before making images.
 
+Character and episode continuity sheet in French, German, Spanish (Spain), and Italian: [Français](character-continuity-sheet.fr.txt) · [Deutsch](character-continuity-sheet.de.txt) · [Español (España)](character-continuity-sheet.es.txt) · [Italiano](character-continuity-sheet.it.txt). Fill these text-only adaptations on paper or in any editor; the files identify the original and adaptation dates separately.
+
 After drawing, use the [one-episode scene continuity review](scene-continuity-review.txt) to check what changes between panels, record observed and inferred events, and inspect the actual export. It includes a filled text-plan check and keeps an untested second episode explicitly unknown.
 
 ## For a writing group or classroom
@@ -42,4 +44,4 @@ If you choose to try GenToon, [Story to Comic](https://www.gentoon.ai/en/story-t
 
 ## License and credit
 
-Copyright 2026 Fairrium (GenToon). The original prose and blank templates in these twelve files are licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). See [LICENSE.md](LICENSE.md) for scope, conditions, exclusions, and a suggested credit. You may share and adapt the licensed material, including commercially, with attribution and a note of changes. No promotional backlink or signup is required; attribution is required by the license. Your own added scene is not automatically licensed by using a worksheet.
+Copyright 2026 Fairrium (GenToon). The original prose and blank templates in these sixteen files are licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). See [LICENSE.md](LICENSE.md) for scope, conditions, exclusions, and a suggested credit. You may share and adapt the licensed material, including commercially, with attribution and a note of changes. No promotional backlink or signup is required; attribution is required by the license. Your own added scene is not automatically licensed by using a worksheet.

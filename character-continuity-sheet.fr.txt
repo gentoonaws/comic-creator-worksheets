@@ -1,0 +1,56 @@
+FICHE DE CONTINUITÉ DES PERSONNAGES ET DES ÉPISODES
+Modèle original de GenToon / Fairrium, daté du 9 octobre 2026.
+Adaptation française du 13 octobre 2026.
+Conservez une version validée par épisode. Mettez les faits à jour après vérification, jamais sur la base de suppositions.
+
+1. FICHE DE LA SÉRIE ET DES PERSONNAGES
+Titre de la série : [ ]
+Responsable de la continuité / date de révision : [ ]
+Nom du personnage / autres noms / nom affiché dans les dialogues : [ ]
+Éléments d'identité qui restent constants : [ ]
+Détails d'apparence dont tout changement doit être expliqué : [ ]
+Façon habituelle de parler / réplique ORIGINALE à titre d'exemple : [ ]
+Relations avec les autres personnages : [ ]
+Objectif initial / ce que le personnage sait / préoccupation non résolue : [ ]
+Notes de référence ou noms des fichiers de référence dont vous détenez les droits (facultatif) : [ ]
+Reprenez cette section pour chaque personnage.
+
+2. FICHE DE CONTINUITÉ DE L'ÉPISODE
+Titre / numéro de l'épisode / version validée : [ ]
+Épisode précédent et fait précis dont celui-ci hérite : [ ]
+Temps écoulé dans l'histoire et manière dont le lectorat l'apprend : [ ]
+Lieu / éclairage / météo au début : [ ]
+Personnages présents au début : [ ]
+Tenues et changements expliqués : [ ]
+Accessoires : propriétaire / emplacement / état au début : [ ]
+
+Journal des événements (dupliquez les lignes) :
+Case | Événement observé | Qui l'apprend | Changement concernant un accessoire ou une relation
+[ ]  | [ ]                | [ ]          | [ ]
+
+ÉTAT FINAL À TRANSMETTRE À L'ÉPISODE SUIVANT
+Personnage / objectif / connaissances / émotion / emplacement : [ ]
+Accessoire / personne qui le détient ou emplacement / état : [ ]
+Relation / ce qui a changé / case justificative : [ ]
+Fil narratif non résolu : [ ]
+Ce qui peut changer dans l'épisode suivant : [ ]
+Ce qu'il faut expliquer avant tout changement dans l'épisode suivant : [ ]
+
+3. DÉCISIONS DE CONTINUITÉ
+Fait établi et épisode/case qui le confirme : [ ]
+Changement intentionnel / explication / première case qui le montre : [ ]
+Contradiction possible / décision / personne chargée de la vérification : [ ]
+Statut : [en suspens / validé / remplacé]
+Si remplacé, nouvelle version et motif : [ ]
+
+VÉRIFICATION
+[ ] Les éléments d'identité constants concordent dans toutes les cases validées.
+[ ] Une tenue différente, un accessoire manquant ou un saut dans le temps s'explique dans l'histoire.
+[ ] Chaque changement de connaissances découle d'un événement ; personne ne connaît un secret trop tôt.
+[ ] Les faits de fin d'épisode, les projets et les questions non résolues sont indiqués séparément.
+[ ] Seuls les faits validés passent à l'épisode suivant.
+
+Licence : © 2026 Fairrium (GenToon). Adaptation du modèle original sous CC BY 4.0 :
+https://creativecommons.org/licenses/by/4.0/
+Si vous partagez cette fiche, attribuez-la à Fairrium (GenToon), gardez les mentions de droit d'auteur et de licence, donnez le lien de la licence et indiquez les modifications. Aucune approbation de votre travail n'est sous-entendue. L'utilisation sur papier ou dans l'éditeur de votre choix ne demande ni compte, ni lien promotionnel, ni achat.
+La licence couvre le texte original et les modèles vierges de ce recueil, pas les images, logiciels, articles liés, marques, sites tiers ni les ajouts des utilisateurs ; vos propres récits ne deviennent pas automatiquement CC BY. Aucune garantie n'est donnée. Voir LICENSE.md pour la portée, les exclusions et les conditions complètes. GenToon est un logiciel de Fairrium ; l'utilisation de ses services relève séparément de ses conditions de compte, de crédits et de service.
